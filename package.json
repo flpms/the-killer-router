@@ -1,0 +1,33 @@
+{
+  "name": "the-killer-router",
+  "version": "0.0.1",
+  "description": "A router library for a view frameworks based",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test:unit": "mocha --recursive test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flpms/router.git"
+  },
+  "keywords": [
+    "react",
+    "router"
+  ],
+  "browser": "index.js",
+  "author": "Filipe M. Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flpms/router/issues"
+  },
+  "homepage": "https://github.com/flpms/router#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "sinon": "^9.0.0"
+  }
+}
