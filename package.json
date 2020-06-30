@@ -1,6 +1,6 @@
 {
   "name": "the-killer-router",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A router library for a view frameworks based",
   "main": "index.js",
   "directories": {
